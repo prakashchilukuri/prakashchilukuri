@@ -61,4 +61,4 @@ Areas of interest include:
 # 🌐 Connect
 
 📧 Email: sriprakashchilukuri@gmail.com  
-💻 GitHub: https://github.com/sriprakashchowdary
+💻 GitHub: https://github.com/prakashchilukuri
